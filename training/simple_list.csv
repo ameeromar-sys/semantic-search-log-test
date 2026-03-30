@@ -1,0 +1,50 @@
+Log Name
+ip Exception writing block to mirror
+writeBlock block received exception millis timeout while waiting for channel to be ready read. ch [connected local=path remote=path]
+Receiving block source path destination
+PacketResponder block Exception Connection reset by peer
+PacketResponder block Exception Interruped while waiting for IO on channel [connected local=path remote=path]. millis timeout left.
+BLOCK Removing block from neededReplications as it does not belong to any file.
+Deleting block file path
+Changing block file offset of from to meta
+writeBlock block received exception No route to host
+Received block of size from path
+writeBlock block received exception Broken pipe
+PacketResponder block Exception Broken pipe
+Exception in receiveBlock for block Interruped while waiting IO on channel [connected local=path remote=path]. millis timeout left.
+"writeBlock block received exception Block is valid, and cannot be written to."
+writeBlock block received exception Interruped while waiting for IO on channel [connected local=path remote=path]. millis timeout left.
+BLOCK ask ip to replicate block datanode(s)
+PendingReplicationMonitor timed out block
+Verification succeeded for block
+writeBlock block received exception Interrupted receiveBlock
+Reopen Block block
+PacketResponder block Exception Interruped while waiting for IO on channel [closed]. millis timeout left.
+Exception in receiveBlock for block
+PacketResponder block Exception The stream is closed
+Exception in receiveBlock for block millis timeout while waiting channel to be ready write. ch [connected local=path remote=path]
+Receiving empty packet for block
+BLOCK Redundant addStoredBlock request received for block on ip size
+BLOCK path block
+Exception in receiveBlock for block Broken pipe
+PacketResponder for block Interrupted.
+Adding an already existing block
+writeBlock block received exception Could not read from stream
+ip Served block to path
+ip Transmitted block to path
+PacketResponder for block terminating
+"ip Starting thread to transfer block ip,"
+BLOCK addStoredBlock request received for block on ip size But it does not belong to any file.
+ip Failed to transfer block got Connection reset by peer
+writeBlock block received exception Connection reset by peer
+ip Starting thread to transfer block
+Exception in receiveBlock for block Connection reset by peer
+PacketResponder block Exception millis timeout while waiting for channel to be ready read. ch [connected local=path remote=path]
+writeBlock block received exception
+ip Got exception while serving block to path
+writeBlock block received exception millis timeout while waiting for channel to be ready write. ch [connected local=path remote=path]
+Unexpected error trying to delete block block. BlockInfo not found in volumeMap.
+BLOCK block is added to invalidSet of ip
+Received block source path destination of size
+BLOCK blockMap updated ip is added to block size
+PacketResponder block Exception
